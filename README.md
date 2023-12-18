@@ -9,15 +9,16 @@ The work of the machine learning team is to create machine learning models and t
 We compile images of gym equipment, encompassing dumbbells, barbells, treadmills, and more, utilizing a crawling method for dataset acquisition.
 
 
-# 2. Preparation data
+# 2. Preparation Data
 Upon gathering the datasets, we initiate data preparation by enhancing the quality of the images. This involves refining the dataset by eliminating images deemed unsuitable for our model. Actions include deletion and cropping of images that can still be effectively utilized.
 
-# 3. Preprocesing
+[Alat-alat gym](https://drive.google.com/drive/folders/1qSnmJ8W2hc9-IuhagP3F69CFzN9MNIEN)
+# 3. Preprocessing Data
 Applying ImageDataGenerator for scale normalization on each image involves resetting the range of pixel values on each image so that they are uniform and standardized, facilitating a more stable and efficient neural network model training process.
 
-[DATASET ML](https://drive.google.com/drive/folders/1qSnmJ8W2hc9-IuhagP3F69CFzN9MNIEN)
-# 4. Model n training data
+[DATASET ML](https://colab.research.google.com/drive/17nM8hFJaw_Az5K3hBp7ZaTBIWbepgK0y#scrollTo=S6VNbElDVwSr)
+# 4. Create Model and Training Data
+For model architecture, resize the image into 180x180 and we use transfer learning using VGG16. In general, the Architecture of VGG16
 
-
-# 5. Evaluate the model
-# 6. Test the model
+# 5. Evaluate The Model
+# 6. Test The Model
