@@ -15,6 +15,7 @@ Upon gathering the datasets, we initiate data preparation by enhancing the quali
 # 3. Preprocesing
 Applying ImageDataGenerator for scale normalization on each image involves resetting the range of pixel values on each image so that they are uniform and standardized, facilitating a more stable and efficient neural network model training process.
 
+[DATASET ML](https://drive.google.com/drive/folders/1qSnmJ8W2hc9-IuhagP3F69CFzN9MNIEN)
 # 4. Model n training data
 
 
