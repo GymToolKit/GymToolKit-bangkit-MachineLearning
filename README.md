@@ -21,7 +21,15 @@ Applying ImageDataGenerator for scale normalization on each image involves reset
 For model architecture, resize the image into 180x180 and we use transfer learning using VGG16. In general, the Architecture of VGG16
 
 - ![VGG16](https://github.com/GymToolKit/GymToolKit-bangkit-MachineLearning/blob/main/graph/arsitektur.png?raw=true)
-- [Model](
+- [Model](https://github.com/GymToolKit/GymToolKit-bangkit-MachineLearning/blob/main/model.ipynb)
 # 5. Evaluate The Model
-
+This showcases the results obtained following the creation of the model, reflecting the impactful outcomes achieved.
+- Examples of images in the dataset
+- ![example images](https://github.com/GymToolKit/GymToolKit-bangkit-MachineLearning/blob/main/graph/display%20example.png?raw=true)
+- Train, validation, and test counts
+- ![TVT](https://github.com/GymToolKit/GymToolKit-bangkit-MachineLearning/blob/main/graph/bar.png?raw=true)
+- Proportion of each observed category
+- ![proportion](https://github.com/GymToolKit/GymToolKit-bangkit-MachineLearning/blob/main/graph/pie.png?raw=true)
+- Training and validation, accuracy and loss
+- ![acc&loss](https://github.com/GymToolKit/GymToolKit-bangkit-MachineLearning/blob/main/graph/train%26val%20accuracy%26loss.png?raw=true)
 # 6. Test The Model
