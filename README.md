@@ -33,3 +33,5 @@ This showcases the results obtained following the creation of the model, reflect
 - Training and validation, accuracy and loss
 - ![acc&loss](https://github.com/GymToolKit/GymToolKit-bangkit-MachineLearning/blob/main/graph/train%26val%20accuracy%26loss.png?raw=true)
 # 6. Test The Model
+This serves as the exemplar IPython notebook illustrating the testing process for classifying gym equipment using the previously developed model, with subsequent presentation of the outcomes.
+- [Testing](
