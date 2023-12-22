@@ -39,3 +39,7 @@ This showcases the results obtained following the creation of the model, reflect
 # 6. Test The Model
 This serves as the exemplar ipynb illustrating the testing process for classifying gym equipment using the previously developed model, with subsequent presentation of the outcomes.
 - [Testing](https://github.com/GymToolKit/GymToolKit-bangkit-MachineLearning/blob/main/testing.ipynb)
+
+
+## Disclaimer
+-   This project is created for educational purpose as the requirement to graduate from [**_Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka_**.](https://www.linkedin.com/company/bangkit-academy/mycompany/)
